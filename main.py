@@ -1,0 +1,1 @@
+print('senha: 1')
